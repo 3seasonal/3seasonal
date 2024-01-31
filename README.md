@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning data science techniques.
+-  🔭 I’m currently working on automating research workflows.
+    
 <!--
 **3seasonal/3seasonal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
